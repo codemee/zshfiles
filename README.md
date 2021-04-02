@@ -7,3 +7,5 @@ ZDOTDIR=$HOME/.zsh
 ```
 
 This tell zsh to find the .zshrc file in the specified folder.
+
+And then you should clone the repo to .zsh folder.
