@@ -9,3 +9,5 @@ ZDOTDIR=$HOME/.zsh
 This tell zsh to find the .zshrc file in the specified folder.
 
 And then you should clone the repo to .zsh folder.
+
+Recommended font [here](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/JetBrainsMono.zip).
